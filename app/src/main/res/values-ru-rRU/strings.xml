@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeWork341</string>
+    <string name="textLang">Выберите язык</string>
+    <string name="textColor">Выберите цвет</string>
+    <string name="textExample">Этот текст на русском языке! :)</string>
+    <string name="buttonOK">OK</string>
+
+    <string-array name="language">
+        <item>EN Английский</item>
+        <item>RU Русский</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Черный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+    </string-array>
+
+</resources>
